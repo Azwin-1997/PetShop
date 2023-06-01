@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "fname": "shafeeq",
+      "uname": "shaf",
+      "email": "xdswcdssw@gmail.com",
+      "pass": "1111",
+      "cart": [
+        {
+          "productid": 3,
+          "productimage": "https://media.petsathome.com/wcsstore/pah-cas01//300/7142841.jpg",
+          "name": "Wainwrights Wet Puppy Food Chicken Multipack 16x150g Pouches",
+          "price": 24.99,
+          "description": "At Wainwrights we want the very best for your dog. So, our naturally inspired recipes are tailored to your dogs needs",
+          "count": 1
+        },
+        {
+          "productid": 1,
+          "productimage": "https://media.petsathome.com/wcsstore/pah-cas01//300/7131375PL.jpg",
+          "name": "Butchers Simply Gentle Wet Adult Dog Food",
+          "price": 9.99,
+          "description": "Butchers believe nothing is better for your dog than natures most nourishing food",
+          "count": 1
+        },
+        {
+          "productid": 7,
+          "productimage": "https://media.petsathome.com/wcsstore/pah-cas01//300/7110768PL.jpg",
+          "name": "Petstages Tower of Tracks",
+          "price": 10.99,
+          "description": "Keep your kitty happy with this Petstages Tower of Tricks toy!",
+          "count": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "fname": "ruwu",
+      "uname": "shaf",
+      "email": "xdswcdssw@gmail.com",
+      "pass": "1111",
+      "cart": [
+        {
+          "productimage": "https://media.petsathome.com/wcsstore/pah-cas01//300/7131375PL.jpg",
+          "name": "Butchers Simply Gentle Wet Adult Dog Food",
+          "price": 9.99,
+          "description": "Butchers believe nothing is better for your dog than natures most nourishing food",
+          "count": 1
+        },
+        {
+          "productimage": "https://media.petsathome.com/wcsstore/pah-cas01//300/7137170PL.jpg",
+          "name": "Willows Silver Vine Scratch Box Cat Toy",
+          "price": 13.99,
+          "description": "Cats are playful and curious animals that love to climb to heights enabling them to survey their surroundings, hiding in private safe spaces to rest and conserve energy",
+          "count": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fname": "shahin",
+      "uname": "sha",
+      "email": "sha@gmail.com",
+      "pass": "12345",
+      "cart": [
+        {
+          "productimage": "https://media.petsathome.com/wcsstore/pah-cas01//300/7131375PL.jpg",
+          "name": "Butchers Simply Gentle Wet Adult Dog Food",
+          "price": 9.99,
+          "description": "Butchers believe nothing is better for your dog than natures most nourishing food",
+          "count": 1
+        },
+        {
+          "productimage": "https://media.petsathome.com/wcsstore/pah-cas01//300/7128800PL.jpg",
+          "name": "Lilys Kitchen Classic Dinners Multipack for Dogs 6x150g",
+          "price": 14.99,
+          "description": "When Lily the border terrier became ill with itchy skin, it was homemade, natural food that made her better.",
+          "count": 1
+        },
+        {
+          "productimage": "https://media.petsathome.com/wcsstore/pah-cas01//300/7147333PL.jpg",
+          "name": "Kong Wild Knots Tiger Dog Toy Medium/Large",
+          "price": 22.99,
+          "description": "Dogs need to play. For dogs, physical and mental development, emotions and behaviour are all influenced by healthy play",
+          "count": 1
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
